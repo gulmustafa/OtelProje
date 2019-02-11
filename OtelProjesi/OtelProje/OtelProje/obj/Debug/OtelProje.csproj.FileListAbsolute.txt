@@ -1,0 +1,66 @@
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\EntityFramework.dll
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.dll
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\EntityFramework.xml
+E:\Umut\Umut C#\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.xml
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.csprojAssemblyReference.cache
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.cache
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CopyComplete
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.sınıflarıfalanekledik.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme1.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\EntityFramework.dll
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\EntityFramework.xml
+C:\Users\umut\Desktop\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csprojAssemblyReference.cache
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Form1.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.sınıflarıfalanekledik.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme1.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.cache
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CoreCompileInputs.cache
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CopyComplete
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+C:\Users\umut\Desktop\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.Rezervasyon.resources
+F:\Otel\OtelProje\OtelProje\bin\Debug\OtelProje.exe.config
+F:\Otel\OtelProje\OtelProje\bin\Debug\OtelProje.exe
+F:\Otel\OtelProje\OtelProje\bin\Debug\OtelProje.pdb
+F:\Otel\OtelProje\OtelProje\bin\Debug\EntityFramework.dll
+F:\Otel\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.dll
+F:\Otel\OtelProje\OtelProje\bin\Debug\EntityFramework.xml
+F:\Otel\OtelProje\OtelProje\bin\Debug\EntityFramework.SqlServer.xml
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.csprojAssemblyReference.cache
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Form1.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.Rezervasyon.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.sınıflarıfalanekledik.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme1.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Properties.Resources.resources
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.GenerateResource.cache
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CoreCompileInputs.cache
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.csproj.CopyComplete
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.exe
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.pdb
+F:\Otel\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme5.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.FrmAnasayfa.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmGiris.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmKayitOl.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmOteller.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmRezervasyon.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmRezerveBilgileri.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmRezerveKisi.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmSifremiUnuttum.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Forms.FrmYorumlar.resources
+E:\Umut\Umut C#\OtelProje\OtelProje\obj\Debug\OtelProje.Migrations.guncelleme5.resources
